@@ -1,0 +1,82 @@
+Precios Rappi🛵 
+
+hamburguesas:
+simple: $ 10.500,00
+clásica: $ 12.500,00
+completa: $ 14.000,00
+simple bbq: $ 14.500,00
+american: $ 15.000,00
+italian: $ 13.000,00
+criolla argentina: $ 13.000,00
+blue: $ 14.000,00
+doble bbq: $ 16.000,00
+
+papas:
+clásicas: $ 7.000,00
+cheddar: $ 11.000,00
+bbq: $ 8.500,00
+salchipapas: $ 8.000,00
+
+sandwich pollo:
+verdeo: $ 13.000,00
+bbq: $ 14.000,00
+
+cerdo:
+simple: $ 12.500,00
+clásica: $ 14.000,00
+completa: $ 15.000,00
+americano: $ 16.500,00
+doble bbq: $ 18.000,00
+criollo: $ 14.000,00
+
+Precios take away 🚶🏻‍♀:
+
+🍔 Hamburguesas
+
+Simple: $ 8.400
+
+Clásica: $ 10.000
+
+Completa: $ 11.200
+
+Simple BBQ: $ 11.600
+
+American: $ 12.000
+
+Italian: $ 10.400
+
+Criolla Argentina: $ 10.400
+
+Blue: $ 11.200
+
+Doble BBQ: $ 12.800
+
+🍟 Papas
+
+Clásicas: $ 5.600
+
+Cheddar: $ 8.800
+
+BBQ: $ 6.800
+
+Salchipapas: $ 6.400
+
+🐔 Sándwich de Pollo
+
+Verdeo: $ 9.600
+
+BBQ: $ 11.200
+
+🐖 Cerdo
+
+Simple: $ 10.000
+
+Clásica: $ 11.200
+
+Completa: $ 12.000
+
+Americano: $ 13.200
+
+Doble BBQ: $ 14.400
+
+Criollo: $ 11.200
